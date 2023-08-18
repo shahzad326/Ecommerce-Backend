@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "outDir": "dist",
+    "rootDir": "src",
+    "strict": true,
+    "target": "ES2015",
+    "moduleResolution": "node",
+    "lib": ["esnext"],
+    "esModuleInterop": true,
+    "typeRoots": ["./src/types"]
+  }
+}

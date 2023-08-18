@@ -1,0 +1,13 @@
+  .env
+        .gitignore
+        Dockerfile
+        installation.txt
+        message+conversation.rar
+    
+    
+    
+    
+    
+        tsconfig.json
+        yarn-error.log
+        yarn.lock

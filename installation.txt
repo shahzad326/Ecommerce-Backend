@@ -1,0 +1,1 @@
+npm install @types/node @types/cors @types/morgan @types/dotenv cors morgan dotenv
