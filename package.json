@@ -23,7 +23,7 @@
     "@types/multer": "^1.4.7",
     "@types/multer-s3": "^3.0.0",
     "@types/node": "^20.4.3",
-    "aws-sdk": "^2.1422.0",
+    "aws-sdk": "^2.1425.0",
     "bcrypt": "^5.1.0",
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
